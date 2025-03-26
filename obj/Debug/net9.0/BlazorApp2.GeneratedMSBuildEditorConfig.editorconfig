@@ -24,24 +24,32 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Browsers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCcm93c2Vycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/FlexBox.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGbGV4Qm94LnJhem9y
+[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Games.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHYW1lcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Music.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNdXNpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Video.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaWRlby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/WebShop.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWJTaG9wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/фвьшт/RiderProjects/BlazorApp2/BlazorApp2/Components/Routes.razor]

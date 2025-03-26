@@ -93,13 +93,17 @@ h1:focus {
     display: flex;
 }
 .myBtn {
-    padding: 8px;
-    margin-bottom: 5px;
-    margin-top: 5px;
-    margin-right: 5px;
-    border: 1px solid black;
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 .myBtn:hover {
-    background-color: coral;
-    color:white;
+    background-color: #0056b3;
 }
